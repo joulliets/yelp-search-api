@@ -1,0 +1,5 @@
+yelp-config:
+  api-key: is4eD-jBxTVTlJqpLeN0XKPQO2SESfH77hrQfcKNWyNWKzHArq_KOGHEOBXMyvlPgMlJal07FYG8Z-lDhV3BdtrlBVhS-fwzdL-eSZOizCObVp1HBlmfbUG_uickYXYx
+  business-name: lakefront-brewery-milwaukee
+  base-url: https://api.yelp.com/v3/businesses/
+  date-time-format: "yyyy-MM-dd HH:mm:ss"
